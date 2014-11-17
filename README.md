@@ -1,4 +1,4 @@
-# Ijduino bracket
+# IJduino bracket
 
 Mounting bracket for the Ijduino.
 
